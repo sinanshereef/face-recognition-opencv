@@ -1,0 +1,45 @@
+# Python
+
+**pycache**/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+dist/
+build/
+
+# Virtual Environment
+
+.venv/
+venv/
+env/
+
+# Jupyter Notebook
+
+.ipynb_checkpoints/
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# IDE
+
+.vscode/
+.idea/
+
+# Data files (optional — keep if large)
+
+*.csv
+*.mp4
+*.avi
+*.mov
+
+# Face images (optional if large dataset)
+
+known_faces/
+
+# Logs
+
+*.log
